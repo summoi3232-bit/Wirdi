@@ -1,0 +1,19 @@
+{
+  "name": "وِردي — متابعة الورد الأسبوعي",
+  "short_name": "وِردي",
+  "description": "تطبيق لمتابعة الورد القرآني الأسبوعي من السبت إلى الجمعة، مع تقارير أسبوعية وشهرية وسنوية.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F8F2E3",
+  "theme_color": "#0E3B36",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
